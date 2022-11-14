@@ -1,7 +1,6 @@
 # National_Park_Visualization
 
 <img src="https://i0.wp.com/www.anseladams.com/wp-content/uploads/2021/07/50101253.jpg?w=800&ssl=1" alt="Yosemite Valley, Thunderstorm by Ansel Adams" width="490" style="float: left" />
-<p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
 
 I am a paleobiologist studying reptile biodiversity change through time and in response to global change phenomena, and I am also a national park enthusiast. Growing up, I love explore nature and I always get excited by the splendid wildlife and ecosystems. I especially love the US National Parks, and would go on roadtrips to visit these parks on almost every vacation. 
 
